@@ -1,0 +1,26 @@
+[
+    {
+        "index":0,
+        "nombre":"Bajo peso",
+        "limiteSup":"18.5",
+        "limiteInferior":"0"
+    },
+    {
+        "index":1,
+        "nombre":"Peso normal",
+        "limiteSup":"25",
+        "limiteInferior":"18.5"
+    },
+    {
+        "index":2,
+        "nombre":"Sobrepeso",
+        "limiteSup":"30",
+        "limiteInferior":"25"
+    },
+    {
+        "index":3,
+        "nombre":"Obesidad",
+        "limiteSup":"",
+        "limiteInferior":"30"
+    }
+]
